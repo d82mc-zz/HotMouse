@@ -1,0 +1,72 @@
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\bin\Debug\DesktopWPFAppLowLevelKeyboardHook.exe.config
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\bin\Debug\DesktopWPFAppLowLevelKeyboardHook.exe
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\bin\Debug\DesktopWPFAppLowLevelKeyboardHook.pdb
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\obj\Debug\HotMouse_wpf.csprojAssemblyReference.cache
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\obj\Debug\HotMouse.g.cs
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\obj\Debug\App.g.cs
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\obj\Debug\DesktopWPFAppLowLevelKeyboardHook_MarkupCompile.cache
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\obj\Debug\DesktopWPFAppLowLevelKeyboardHook_MarkupCompile.lref
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\obj\Debug\HotMouse.baml
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\obj\Debug\DesktopWPFAppLowLevelKeyboardHook.g.resources
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\obj\Debug\DesktopWPFAppLowLevelKeyboardHook.Properties.Resources.resources
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\obj\Debug\HotMouse_wpf.csproj.GenerateResource.cache
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\obj\Debug\HotMouse_wpf.csproj.CoreCompileInputs.cache
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\obj\Debug\DesktopWPFAppLowLevelKeyboardHook.exe
+C:\Users\d82mc\source\repos\DesktopWPFAppLowLevelKeyboardHook\DesktopWPFAppLowLevelKeyboardHook\obj\Debug\DesktopWPFAppLowLevelKeyboardHook.pdb
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse_wpf.csprojAssemblyReference.cache
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse.g.cs
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\App.g.cs
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse.baml
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse_wpf.csproj.GenerateResource.cache
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse_wpf.csproj.CoreCompileInputs.cache
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.exe.config
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.exe.manifest
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.application
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.exe
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.pdb
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b_MarkupCompile.cache
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b_MarkupCompile.lref
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.g.resources
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse.Properties.Resources.resources
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.exe.manifest
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.application
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.exe
+C:\Users\d82mc\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.pdb
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.exe.config
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.exe.manifest
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.application
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.exe
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.pdb
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse_wpf.csprojAssemblyReference.cache
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse.g.cs
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\App.g.cs
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b_MarkupCompile.cache
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b_MarkupCompile.lref
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse.baml
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.g.resources
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse.Properties.Resources.resources
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse_wpf.csproj.GenerateResource.cache
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse_wpf.csproj.CoreCompileInputs.cache
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.exe.manifest
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.application
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.exe
+D:\VS Projects\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.pdb
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.exe.config
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.exe.manifest
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.application
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.exe
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\bin\Debug\HotMouse v0.3b.pdb
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse_wpf.csprojAssemblyReference.cache
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse.g.cs
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\App.g.cs
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b_MarkupCompile.cache
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b_MarkupCompile.lref
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse.baml
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.g.resources
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse.Properties.Resources.resources
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse_wpf.csproj.GenerateResource.cache
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse_wpf.csproj.CoreCompileInputs.cache
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.exe.manifest
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.application
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.exe
+C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.pdb
