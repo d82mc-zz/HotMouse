@@ -70,3 +70,43 @@ C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.ex
 C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.application
 C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.exe
 C:\Users\Koty\source\repos\HotMouse_wpf\HotMouse_wpf\obj\Debug\HotMouse v0.3b.pdb
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\bin\Debug\HotMouse v0.3b.exe.config
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\bin\Debug\HotMouse v0.3b.exe.manifest
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\bin\Debug\HotMouse v0.3b.application
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\bin\Debug\HotMouse v0.3b.exe
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\bin\Debug\HotMouse v0.3b.pdb
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse_wpf.csprojAssemblyReference.cache
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse.g.cs
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\App.g.cs
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse v0.3b_MarkupCompile.cache
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse v0.3b_MarkupCompile.lref
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse.baml
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse v0.3b.g.resources
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse.Properties.Resources.resources
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse_wpf.csproj.GenerateResource.cache
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse_wpf.csproj.CoreCompileInputs.cache
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse v0.3b.exe.manifest
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse v0.3b.application
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse v0.3b.exe
+C:\Users\Koty\source\repos\HotMouse v0.4\HotMouse_wpf\obj\Debug\HotMouse v0.3b.pdb
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse_wpf.csprojAssemblyReference.cache
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse.g.cs
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\App.g.cs
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse.baml
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse.Properties.Resources.resources
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse_wpf.csproj.GenerateResource.cache
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse_wpf.csproj.CoreCompileInputs.cache
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\bin\Debug\HotMouse.exe.config
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\bin\Debug\HotMouse.exe.manifest
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\bin\Debug\HotMouse.application
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\bin\Debug\HotMouse.exe
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\bin\Debug\HotMouse.pdb
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\bin\Debug\HotMouse.exe.CodeAnalysisLog.xml
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\bin\Debug\HotMouse.exe.lastcodeanalysissucceeded
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse_MarkupCompile.cache
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse_MarkupCompile.lref
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse.g.resources
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse.exe.manifest
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse.application
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse.exe
+C:\Users\Koty\source\repos\HotMouse v0.5\HotMouse_wpf\obj\Debug\HotMouse.pdb
